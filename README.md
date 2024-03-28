@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rizwan102003
-- 👀 I’m interested in programming in python,java,c,c++ and any new languages i find interesting
-- 🌱 I currently have knowledge on java,HTML,css,javascript,python and studying electronics engineering
-- 💞️ I’m looking to collaborate on projects to develop skills
+- 👋 Hi, I’m Rizwan
+- 👀 I’m interested in programming in python,java,c,c++ and any new languages and technologies I find interesting
+- 🌱 Studying electronics engineering (ECE) in Kolkata
+- Linkedin - https://www.linkedin.com/in/sk-md-rizwan-39922b22a/
 - 📫 skmdrizwan2003@gmail.com 
 
 <!---
