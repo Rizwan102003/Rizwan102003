@@ -1,4 +1,4 @@
-- 👋 # Hi, I'm Rizwan! 👋
+- # 👋 Hi, I'm Rizwan! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building impactful projects.
 
@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 ![GitHub Stars](https://img.shields.io/github/stars/Rizwan102003?style=for-the-badge&color=FFD700)
 ![GitHub Followers](https://img.shields.io/github/followers/Rizwan102003?style=for-the-badge&color=0E76A8)
 
-![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizwan102003&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwan102003&layout=compact&theme=radical)
+![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizwan102003&show_icons=true&theme=vue&bg_color=0066FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwan102003&layout=compact&theme=vue&bg_color=0066FF&title_color=FFFFFF&text_color=FFFFFF&hide=none&langs_count=100)
 
 ---
 
