@@ -24,12 +24,15 @@ jobs:
       - name: Run Update Script
         run: python scripts/update_readme.py
 
-      - name: Commit and Push Changes
+      - name: Check for changes
         run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
-          git add README.md
-          git commit -m "Update README with latest tools"
-          git push
+          if ! git diff --quiet; then
+            git config --local user.name "GitHub Actions"
+            git config --local user.email "actions@github.com"
+            git add README.md
+            git commit -m "Update README with latest tools"
+            git push
+          else
+            echo "No changes to commit."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
