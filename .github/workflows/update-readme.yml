@@ -19,20 +19,21 @@ jobs:
           python-version: 3.x
 
       - name: Install Requirements
-        run: pip install requests
+        run: python3 -m pip install --upgrade pip && pip3 install requests
 
       - name: Run Update Script
-        run: python scripts/update_readme.py
+        run: python3 scripts/update_readme.py
 
-      - name: Check for changes
+      - name: Check for Changes
         run: |
-          if ! git diff --quiet; then
+          if git diff --quiet; then
+            echo "No changes to commit."
+          else
             git config --local user.name "GitHub Actions"
             git config --local user.email "actions@github.com"
             git add README.md
             git commit -m "Update README with latest tools"
             git push
-          else
-            echo "No changes to commit."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
