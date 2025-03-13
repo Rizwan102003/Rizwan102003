@@ -14,9 +14,12 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 ## 📊 GitHub Stats
 ![GitHub Stars](https://img.shields.io/github/stars/Rizwan102003?style=for-the-badge&color=FFD700)   
 
+![Profile Views](https://komarev.com/ghpvc/?username=Rizwan102003&color=blue&style=flat)
+
 ![GitHub Followers](https://img.shields.io/github/followers/Rizwan102003?style=for-the-badge&color=0E76A8)  
 
 ![GitHub Forks](https://github-readme-streak-stats.herokuapp.com?user=Rizwan102003&theme=vue&hide_border=true)   
+
 
 ![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizwan102003&show_icons=true&theme=vue&bg_color=0066FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFD700)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwan102003&layout=compact&theme=vue&bg_color=0066FF&title_color=FFFFFF&text_color=FFFFFF&hide=none&langs_count=100)
