@@ -52,6 +52,12 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 ---
 
+## ✍️ Articles
+ - How to Actually Hack Your Neighbour’s Wi-Fi Using Ubuntu — A Beginner’s Guide to Aircrack-ng & Wifite
+<img alt="Medium" src="https://img.shields.io/badge/Published%20on-Medium-black?logo=medium&style=for-the-badge" />
+
+--- 
+
 ## 📚 About Me
 I'm currently a B.Tech student in Electronics and Communication Engineering (2022-2026)
 
