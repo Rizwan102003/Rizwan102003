@@ -1,6 +1,7 @@
 - # 👋 Hi, I'm Rizwan! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and building impactful projects.
+Welcome to my GitHub profile! 
+I'm passionate about coding, problem-solving, and building impactful projects.
 
 ---
 
@@ -15,8 +16,6 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 ![GitHub Stars](https://img.shields.io/github/stars/Rizwan102003?style=for-the-badge&color=FFD700)   
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rizwan102003&color=blue&style=flat)
-
-![GitHub Followers](https://img.shields.io/github/followers/Rizwan102003?style=for-the-badge&color=0E76A8)  
 
 ![GitHub Forks](https://github-readme-streak-stats.herokuapp.com?user=Rizwan102003&theme=vue&hide_border=true)   
 
