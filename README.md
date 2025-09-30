@@ -43,8 +43,11 @@ I'm passionate about coding, problem-solving, and building impactful projects.
 ---
 
 ## 🏆 Achievements
-- **Certifications**: Salesforce AI Associate (December 2024) 🏅
--  **Coursera Profile:**  
+- **Certifications**:🏅
+    - Salesforce AI Associate (December 2024)
+    - Github Foundations (June 2025)
+    - Github Advanced Security(June 2025)
+-  **Coursera Certifications:**  
 [![Coursera Profile](https://img.shields.io/badge/Coursera-Profile-blue?logo=Coursera&logoColor=white)](https://www.coursera.org/learner/sk-md-rizwan)   
 - **Coding Profiles**:
   - [LeetCode](https://leetcode.com/u/Rizwan10/) - Solving coding challenges to sharpen my skills.
