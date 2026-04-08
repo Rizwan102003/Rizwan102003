@@ -55,9 +55,9 @@ I'm passionate about coding, problem-solving, and building impactful projects.
 ---
 
 ## ✍️ Articles
- - How to Actually Hack Your Neighbour’s Wi-Fi Using Ubuntu — A Beginner’s Guide to Aircrack-ng & Wifite
-<img alt="Medium" src="https://img.shields.io/badge/Published%20on-Medium-black?logo=medium&style=for-the-badge" />
+- [How to Actually Hack Your Neighbour’s Wi-Fi Using Ubuntu — A Beginner’s Guide to Aircrack-ng & Wifite](https://rizwan-10.medium.com/how-to-actually-hack-your-neighbours-wi-fi-using-ubuntu-a-beginner-s-guide-to-aircrack-ng-a65bc9ca803d)
 
+<img alt="Medium" src="https://img.shields.io/badge/Published%20on-Medium-black?logo=medium&style=for-the-badge" />
 --- 
 
 ## 📚 About Me
